@@ -1,4 +1,4 @@
-### <h1>Olá, me chamo Jessica Oliveira 👋</h1>
+# Olá, me chamo Jessica Oliveira 👋</h1>
 
 <li>🎓 - Formada em sistemas de Informação</li>
 <li>🌱 - Atualmente estou cursando desenvolvimento de software com foco em Back-End</li>
