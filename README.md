@@ -3,7 +3,7 @@
 <li>🎓 - Formada em sistemas de Informação</li>
 <li>🌱 - Atualmente estou cursando desenvolvimento de software com foco em Back-End</li>
 
-<h3>Pricipais skills:</h3>
+<h3>Linguagens:</h3>
 <hr>
 <div>
 
